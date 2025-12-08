@@ -1,13 +1,13 @@
 # Hi, I'm SAKHI MALI 👋
 
-Quality Assurance Engineer | SDET | Automation Enthusiast
+SDET | Quality Assurance Engineer | Automation Enthusiast
 
 I break things so users don't have to — with empathy, data, and code.
 
 ## 🧪 About Me
-- 🔭 I’m currently working on: [Inventory Domain]
-- 🌱 Learning: [Playwright/Performance/Accessibility/E2E Strategy]
-- 🤝 I love collaborating on: Test strategy, CI pipelines, and developer experience
+- 🔭 I’m currently working on: [ a unified automation framework that supports Web (Selenium), Mobile (Appium), and API (Rest Assured) with reusable components, parallel execution, reporting, and CI integration.]
+- 🌱 🌱 Focusing on upskilling in: [Playwright, Performance testing, Accessibility testing, AI-driven test automation, Generative AI for QA workflows, and End-to-End automation strategy to elevate quality engineering maturity ]
+- 🤝 I love collaborating on: [Selenium/Appium/Rest Assured automation, Java-based framework design, CI/CD pipeline optimization, test strategy, and AI-driven quality engineering.]
 
 ## 🛠️ Tech & Tools
 <!-- Replace with your badges (see snippet below) -->
@@ -20,7 +20,7 @@ I break things so users don't have to — with empathy, data, and code.
 ![Docker](https://img.shields.io/badge/Containers-Docker-2496ED?logo=docker&logoColor=white)
 
 ## ✅ Testing Focus
-- Automation Frameworks: Selenium • WebdriverIO
+- Automation Frameworks: Selenium • WebdriverIO • POM
 - API Testing: Postman • REST Assured • SoapUI
 - CI/CD: GitHub Actions • Jenkins • Docker 
 - Reporting: Allure • Extent • HTML Reports
