@@ -41,4 +41,3 @@ ISTQB  | Postman API Expert
 
 ## 📫 Connect
 - LinkedIn: https://linkedin.com/in/sakhimali
-- Portfolio: coming soon
