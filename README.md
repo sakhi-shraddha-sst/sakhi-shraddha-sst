@@ -2,7 +2,7 @@
 
 SDET | Quality Assurance Engineer | Automation Enthusiast
 
-I break things so users don't have to — with empathy, data, and code.
+I break software thoughtfully, so users experience it flawlessly — with empathy, data, and automation at the core.
 
 ## 🧪 About Me
 - 🔭 I’m currently working on: [ a unified automation framework that supports Web (Selenium), Mobile (Appium), and API (Rest Assured) with reusable components, parallel execution, reporting, and CI integration.]
