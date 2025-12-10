@@ -5,7 +5,7 @@ SDET | Quality Assurance Engineer | Automation Enthusiast
 I break software thoughtfully, so users experience it flawlessly — with empathy, data, and automation at the core.
 
 ## 🧪 About Me
-- 🔭 I’m currently working on: [ a unified automation framework that supports Web (Selenium), Mobile (Appium), and API (Rest Assured) with reusable components, parallel execution, reporting, and CI integration.]
+- 🔭 I’m currently working on: [a unified automation framework that supports Web (Selenium), Mobile (Appium), and API (Rest Assured) with reusable components, parallel execution, reporting, and CI integration.]
 - 🌱 🌱 Focusing on upskilling in: [Playwright, Performance testing, Accessibility testing, AI-driven test automation, Generative AI for QA workflows, and End-to-End automation strategy to elevate quality engineering maturity ]
 - 🤝 I love collaborating on: [Selenium/Appium/Rest Assured automation, Java-based framework design, CI/CD pipeline optimization, test strategy, and AI-driven quality engineering.]
 
