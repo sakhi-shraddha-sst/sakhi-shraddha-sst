@@ -1,11 +1,11 @@
 # Hi, I'm SAKHI MALI 👋
 
-SDET | Quality Assurance Engineer | Automation Enthusiast
+SDET | Lead Test Engineer | Automation Enthusiast
 
 I break software thoughtfully, so users experience it flawlessly — with empathy, data, and automation at the core.
 
 ## 🧪 About Me
-- 🔭 I’m currently working on: [a unified automation framework that supports Web (Selenium), Mobile (Appium), and API (Rest Assured) with reusable components, parallel execution, reporting, and CI integration.]
+- 🔭 I’m currently working on: a unified automation framework that supports Web (Selenium), Mobile (Appium), and API (Rest Assured) with reusable components, parallel execution, reporting, and CI integration.
 - 🌱 🌱 Focusing on upskilling in: [Playwright, Performance testing, Accessibility testing, AI-driven test automation, Generative AI for QA workflows, and End-to-End automation strategy to elevate quality engineering maturity ]
 - 🤝 I love collaborating on: [Selenium/Appium/Rest Assured automation, Java-based framework design, CI/CD pipeline optimization, test strategy, and AI-driven quality engineering.]
 
@@ -20,11 +20,11 @@ I break software thoughtfully, so users experience it flawlessly — with empath
 ![Docker](https://img.shields.io/badge/Containers-Docker-2496ED?logo=docker&logoColor=white)
 
 ## ✅ Testing Focus
-- Automation Frameworks: Selenium • WebdriverIO • POM
+- Automation Frameworks: Selenium • Webdriver • TestNG • POM 
 - API Testing: Postman • REST Assured • SoapUI
-- CI/CD: GitHub Actions • Jenkins • Docker 
+- CI/CD:  Jenkins • BitBucket • Git • GitHub Actions • Docker 
 - Reporting: Allure • Extent • HTML Reports
-- Coverage: Unit • Integration • E2E • Contract Testing
+- Coverage: Functional • Integration • E2E • Contract Testing
 
 ## 📈 Highlights
 - Reduced flaky tests by 45% through refactoring core framework modules, introducing retry analyzers, stabilizing Page Object design across web, mobile, and API suites.
