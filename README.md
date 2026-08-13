@@ -31,10 +31,10 @@ I break software thoughtfully, so users experience it flawlessly — with empath
 - Designed test pyramid for the product, balancing unit, API, UI, and mobile layers, resulting in faster feedback cycles and reduced UI dependency.
 - Enabled shift-left QA by building modular automation components that developers could run during local builds, improving detection of API/UI breaking changes.
 
-<-- ## 🧰 Featured Projects
-- [Project 1] – E2E test suite with Selenium + Extent
+## 🧰 Featured Projects
+- [Project 1] – E2E test suite with Selenium + Extent/Allure
 - [Project 2] – API testing framework with contract tests
-- [Project 3] – CI pipeline for parallelized testing -->
+- [Project 3] – CI pipeline for parallelized testing 
 
 ## 📚 Certifications
 ISTQB CTFL | Postman API Expert
