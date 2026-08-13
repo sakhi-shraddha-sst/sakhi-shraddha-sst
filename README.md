@@ -1,6 +1,6 @@
 # Hi, I'm SAKHI MALI 👋
 
-SDET | Lead Test Engineer | Automation Enthusiast
+Lead Test Engineer | SDET | Automation Enthusiast
 
 I break software thoughtfully, so users experience it flawlessly — with empathy, data, and automation at the core.
 
